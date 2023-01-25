@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tavon, an <a href="https://www.linkedin.com/in/tavon-benberry-54a9bb168">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tavon, an <a href="https://www.linkedin.com/in/tavon-benberry-54a9bb168">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
